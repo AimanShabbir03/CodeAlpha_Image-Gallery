@@ -1,39 +1,33 @@
 # 🖼️ Image Gallery
 
-A responsive and interactive image gallery built using **HTML, CSS, and JavaScript**. The project provides a clean way to browse images with navigation controls, lightbox viewing, hover effects, smooth transitions, and image categories/filters.
+A responsive and interactive **Image Gallery** created using **HTML, CSS, and JavaScript in a single HTML file**.
+
+The gallery allows users to browse images using navigation controls, view images in a lightbox, apply image filters/categories, and enjoy smooth hover effects and transitions.
 
 ## ✨ Features
 
-* 📸 Responsive image gallery layout
+* 📸 Interactive image gallery
 * ⬅️ Previous and next image navigation
-* 🔍 Lightbox view for enlarged images
-* 🖱️ Hover effects on gallery images
+* 🔍 Lightbox image view
+* 🗂️ Image categories and filters
+* 🖱️ Hover effects
 * ✨ Smooth transitions and animations
-* 📱 Responsive design for mobile, tablet, and desktop screens
-* 🗂️ Image categories/filters
+* 📱 Responsive design for different screen sizes
 * 🎨 Clean and user-friendly interface
 
 ## 🛠️ Technologies Used
 
-* **HTML5** – Structure of the gallery
+* **HTML5** – Page structure and gallery content
 * **CSS3** – Styling, responsive layout, hover effects, and transitions
 * **JavaScript** – Image navigation, lightbox functionality, and filtering
 
 ## 📂 Project Structure
 
 ```text
-Image-Gallery/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-└── images/
-    ├── image1.jpg
-    ├── image2.jpg
-    ├── image3.jpg
-    └── ...
+index.html
 ```
+
+All HTML, CSS, and JavaScript code is contained in a **single `index.html` file**.
 
 ## 🚀 How to Run
 
@@ -44,24 +38,23 @@ git clone https://github.com/your-username/your-repository-name.git
 ```
 
 2. Open the project folder.
-3. Open `index.html` in your web browser.
-4. Explore the gallery and use the navigation and filter options.
+3. Open `index.html` in any modern web browser.
+4. Browse the images and try the navigation, lightbox, and filter features.
 
 ## 🎯 Task Objectives
 
-This project was developed as part of a frontend development task to practice:
+This project was created to practice:
 
-* Creating layouts with HTML and CSS
-* Implementing JavaScript-based navigation
-* Creating a lightbox image viewer
-* Adding interactive hover effects
-* Applying smooth CSS transitions
-* Building responsive web designs
-* Implementing image filtering/categories
+* HTML and CSS layout design
+* JavaScript navigation
+* Lightbox functionality
+* Hover effects and smooth transitions
+* Responsive web design
+* Image filtering and categories
 
 ## 📱 Responsive Design
 
-The gallery is designed to work across different screen sizes, including:
+The gallery is designed to provide a smooth viewing experience on:
 
 * 💻 Desktop
 * 📱 Mobile
@@ -69,11 +62,11 @@ The gallery is designed to work across different screen sizes, including:
 
 ## 🔮 Future Improvements
 
-* Add image upload functionality
+* Add more image categories
 * Add search functionality
-* Add more gallery categories
-* Add slideshow/auto-play mode
-* Add image download option
+* Add slideshow/auto-play
+* Add image upload functionality
+* Improve accessibility features
 
 ## 👩‍💻 Author
 
