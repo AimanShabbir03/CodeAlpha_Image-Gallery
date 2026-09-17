@@ -24,7 +24,7 @@ The gallery allows users to browse images using navigation controls, view images
 ## 📂 Project Structure
 
 ```text
-index.html
+gallery.html
 ```
 
 All HTML, CSS, and JavaScript code is contained in a **single `index.html` file**.
