@@ -27,7 +27,7 @@ The gallery allows users to browse images using navigation controls, view images
 gallery.html
 ```
 
-All HTML, CSS, and JavaScript code is contained in a **single `index.html` file**.
+All HTML, CSS, and JavaScript code is contained in a **single `gallery.html` file**.
 
 ## 🚀 How to Run
 
