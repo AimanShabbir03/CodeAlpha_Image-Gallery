@@ -34,11 +34,11 @@ All HTML, CSS, and JavaScript code is contained in a **single `index.html` file*
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/AimanShabbir03/CodeAlpha_Image-Gallery.git
 ```
 
 2. Open the project folder.
-3. Open `index.html` in any modern web browser.
+3. Open `gallery.html` in any modern web browser.
 4. Browse the images and try the navigation, lightbox, and filter features.
 
 ## 🎯 Task Objectives
