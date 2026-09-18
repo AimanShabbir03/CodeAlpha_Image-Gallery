@@ -29,9 +29,10 @@ A responsive, animated image gallery built with plain **HTML, CSS, and JavaScrip
 
 ```
 CodeAlpha_Image-Gallery/
-├── index.html      # Page markup/structure
-├── style.css        # All styling (theme, layout, animations, responsive rules)
-├── script.js        # Gallery rendering, filtering, and lightbox logic
+Image-Gallery/
+| ├── index.html      # Page markup/structure
+| ├── style.css        # All styling (theme, layout, animations, responsive rules)
+| ├── script.js        # Gallery rendering, filtering, and lightbox logic
 └── README.md         # Project documentation
 ```
 
