@@ -29,11 +29,11 @@ A responsive, animated image gallery built with plain **HTML, CSS, and JavaScrip
 
 ```
 CodeAlpha_Image-Gallery/
-Image-Gallery/
-| ├── index.html      # Page markup/structure
-| ├── style.css        # All styling (theme, layout, animations, responsive rules)
-| ├── script.js        # Gallery rendering, filtering, and lightbox logic
-└── README.md         # Project documentation
+├── Image-Gallery/
+│   ├── index.html      # Page markup/structure
+│   ├── style.css        # All styling (theme, layout, animations, responsive rules)
+│   └── script.js        # Gallery rendering, filtering, and lightbox logic
+└── README.md             # Project documentation
 ```
 
 ---
@@ -48,7 +48,7 @@ No build tools, no dependencies — just open it in a browser.
    ```
 2. **Move into the project folder**
    ```bash
-   cd CodeAlpha_Image-Gallery
+   cd CodeAlpha_Image-Gallery/Image-Gallery
    ```
 3. **Open `index.html`**
    - Double-click the file to open it directly in your browser, **or**
