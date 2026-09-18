@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aperture — A Photo Gallery</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site">
+  <p class="kicker">Aperture / Field Notes, No. 04</p>
+  <h1 class="title">Twenty frames from the last four seasons</h1>
+  <p class="lede">A working set pulled from the archive — coastline, concrete, faces, and the odd shape that didn't fit anywhere else. Sorted loosely, shot slowly.</p>
+</header>
+
+<nav class="filters" id="filters">
+  <button class="filter-btn active" data-filter="all">All work</button>
+  <button class="filter-btn" data-filter="landscape">Landscape</button>
+  <button class="filter-btn" data-filter="urban">Urban</button>
+  <button class="filter-btn" data-filter="portrait">Portrait</button>
+  <button class="filter-btn" data-filter="abstract">Abstract</button>
+  <span class="filter-count" id="filterCount"></span>
+</nav>
+
+<main class="gallery" id="gallery"></main>
+
+<div class="lightbox" id="lightbox">
+  <button class="lb-close" id="lbClose" aria-label="Close">&times;</button>
+  <span class="lb-index" id="lbIndex"></span>
+  <button class="lb-btn lb-prev" id="lbPrev" aria-label="Previous image">&#8249;</button>
+  <div class="lightbox-frame">
+    <img id="lbImage" src="" alt="">
+    <div class="lightbox-caption">
+      <p class="tile-cat" id="lbCat"></p>
+      <p class="tile-name" id="lbName"></p>
+    </div>
+  </div>
+  <button class="lb-btn lb-next" id="lbNext" aria-label="Next image">&#8250;</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
